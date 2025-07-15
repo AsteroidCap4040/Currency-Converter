@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from data import countries, money_country_data
 
 #Constants
-IMAGE = Image.open("swap.png")
+IMAGE = Image.open("C:\\Users\\pvdev\\OneDrive\\Desktop\\git_demo\\Currency-Converter\\swap.png")
 BACKGROUND_COLOR = "#FFF5E1"
 SWAP_BUTTON_COLOR = "#FF953E"
 CALCULATE_BUTTON_COLOR = "#0C1844"
